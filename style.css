@@ -3,6 +3,6 @@ p {
   margin-bottom: 1em;
 }
 
-div {
-  color: red;
+.editable {
+  margin-left: 1em;
 }
