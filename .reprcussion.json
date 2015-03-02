@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/foo.html",
+    "/bar.html"
+  ],
+  "breakPoints": [
+    320,
+    600,
+    768,
+    1000
+  ]
+}
